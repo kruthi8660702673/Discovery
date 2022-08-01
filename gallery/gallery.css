@@ -43,10 +43,17 @@
     border: 1px solid red;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
 }
 
 .section1{
+    width:100%;
+    height:50%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+
+}
+.section2{
     width:100%;
     height:50%;
     border: 1px solid red;
